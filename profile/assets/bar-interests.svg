@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="26" viewBox="0 0 560 26" font-family="Verdana, Tahoma, sans-serif">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#5b8fd4"/><stop offset="1" stop-color="#3d6fb5"/>
-  </linearGradient></defs>
-  <rect width="560" height="26" fill="url(#g)"/>
-  <rect width="560" height="10" fill="#ffffff" opacity="0.18"/>
-  <text x="10" y="18" font-size="13" font-weight="bold" fill="#ffffff">Tom's Interests</text>
-</svg>
