@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150" viewBox="0 0 300 150" font-family="Verdana, Tahoma, sans-serif">
+  <defs>
+    <linearGradient id="hdr" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5b8fd4"/><stop offset="1" stop-color="#3d6fb5"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="298" height="148" fill="#ffffff" stroke="#3d6fb5" stroke-width="2"/>
+  <rect x="1" y="1" width="298" height="22" fill="url(#hdr)"/>
+  <text x="10" y="16" font-size="12" font-weight="bold" fill="#ffffff">Contacting Tom</text>
+  <g font-size="12" fill="#2255aa">
+    <text x="16" y="45">✉  Send Message</text>
+    <text x="160" y="45">👥  Add to Friends</text>
+    <text x="16" y="70">⭐  Add to Favorites</text>
+    <text x="160" y="70">📷  Forward to Friend</text>
+    <text x="16" y="95">🚫  Block User</text>
+    <text x="160" y="95">🏆  Rank User</text>
+    <text x="16" y="120">💬  Add to Group</text>
+    <text x="160" y="120">📌  Add to Calendar</text>
+  </g>
+  <text x="16" y="142" font-size="10" fill="#888">myspace.com/tom</text>
+</svg>
